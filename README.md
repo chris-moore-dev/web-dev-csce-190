@@ -1,1 +1,1 @@
-# tonio64286.github.io
+This repository holds some simple JavaScript/HTML web design from CSCE 190, Fall 2020.
